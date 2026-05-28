@@ -1,0 +1,12 @@
+feature,importance
+Promo,0.24642466
+StoreTypeEncoded,0.2226343
+DayOfWeek,0.16528714
+AssortmentEncoded,0.14995965
+IsHoliday,0.1178487
+Month,0.08068614
+CompetitionDistance,0.008108612
+Store,0.005880321
+Year,0.0017330892
+SchoolHoliday,0.0014374616
+IsWeekend,0.0
